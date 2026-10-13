@@ -1,15 +1,15 @@
-# RouteWise
+# 🚚 RouteWise
 Courier routing and tracking system
 
 RouteWise is a Python-based courier routing and tracking system designed to simplify delivery management. It helps manage courier assignments, track delivery status, and find efficient routes using graph algorithms.
 
-## About the Project
+## 📌 About the Project
 
 RouteWise aims to make courier delivery faster and more organized through route optimization and delivery tracking.
 
 The system provides separate functionalities for administrators, couriers, and customers. It uses routing algorithms to find suitable paths and support efficient delivery planning.
 
-## Key Features
+## ✨ Key Features
 
 - **Admin Management:** Manage courier and delivery information.
 - **Courier Assignment:** Assign deliveries to couriers.
@@ -20,7 +20,7 @@ The system provides separate functionalities for administrators, couriers, and c
 - **Multi-Stop Routing:** Support route planning for multiple delivery stops.
 - **Interactive Maps:** Display routes using map integration.
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 - **Programming Language:** Python
 - **Frontend and Application Framework:** Streamlit
@@ -28,7 +28,7 @@ The system provides separate functionalities for administrators, couriers, and c
 - **Map Visualization:** Leaflet
 - **Core Concepts:** Graph Algorithms and Route Optimization
 
-##  Algorithms Used
+## 🧠 Algorithms Used
 
 | Algorithm | Purpose |
 |---|---|
@@ -47,7 +47,7 @@ The system provides separate functionalities for administrators, couriers, and c
 
 ### 1. Clone the Repository
 
-Replace MaheshSingh09 with your GitHub username.
+Replace Maheshsingh09 with your GitHub username.
 
 ```bash
 git clone https://github.com/Maheshsingh09/RouteWise
@@ -63,12 +63,12 @@ pip install -r requirements.txt
 ### 3. Run the Application
 
 ```bash
-streamlit run routewise_app.py
+streamlit run app.py
 ```
 
 The application should open in your browser.
 
-## Delivery Status
+## 📦 Delivery Status
 
 The system supports the following delivery statuses:
 
@@ -77,7 +77,7 @@ The system supports the following delivery statuses:
 - In Transit
 - Delivered
 
-## Team
+## 👥 Team
 
 **Team Name:** Avengers
 
@@ -85,13 +85,12 @@ The system supports the following delivery statuses:
 - Mahesh Singh
 - Shravan Bali
 
-## Project Objective
+## 🎯 Project Objective
 
 The objective of RouteWise is to improve courier delivery management by combining route optimization, parcel tracking, and efficient courier assignment in one application.
 
-## Future Scope
+## 🚀 Future Scope
 
-- Real-time courier location tracking
 - Improved route optimization
 - Delivery analytics and reports
 - Enhanced user interface

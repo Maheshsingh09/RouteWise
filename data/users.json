@@ -1,0 +1,10 @@
+[
+  {
+    "username": "hello1",
+    "password_hash": "91e9240f415223982edc345532630710e94a7f52cd5f48f5ee1afc555078f0ab",
+    "role": "ADMIN",
+    "full_name": "hello1",
+    "phone": "1234567890",
+    "active": true
+  }
+]
